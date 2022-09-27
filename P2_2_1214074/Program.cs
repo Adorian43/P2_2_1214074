@@ -43,12 +43,6 @@ namespace P2_2_1214074
             Console.WriteLine("Total Gaji : " + total_gaji);
             Console.WriteLine("Gaji Bersih : " + gaji_bersih);
             Console.ReadKey();
-
-            
-
- 
-     
-
         }
     }
 }
